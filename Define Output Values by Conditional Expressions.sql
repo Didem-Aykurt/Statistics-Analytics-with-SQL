@@ -70,7 +70,7 @@ From inventory.products;
 
 -- Which component is an optional part of a CASE statement? ELSE is not required in a CASE statement.
 -- What is the result of this query? select coalesce('X', null, 'Z');
--- The COALESCE() function returns the first non-null value from the set of inputs.
+-- The COALESCE() function returns the first non-null value from the set of inputs. Result X
 -- What is the purpose of the NULLIF() function? It turns non-null values into null.
 
 
